@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <address>
+                        <addrline>ATTN: Professor Burns</addrline>
+                        <addrline>
+                            <name>Dartmouth University</name>
+                        </addrline>
+                    </address>
+                    <dateline>
+                        <date when="1998-03-28"> 28th March 1998</date>
+                    </dateline>
+                    <salute> Dear Prof. Burns </salute>
+                </opener>
+                <text> I wish to inform you that the documents you requested are now ready at the front desk </text>
+                <closer>
+                    <salute> Warmest wishes, </salute>
+                    <signed> Hums Office </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
